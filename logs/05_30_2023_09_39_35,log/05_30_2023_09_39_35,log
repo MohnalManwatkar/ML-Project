@@ -1,0 +1,10 @@
+[2023-05-30 09:39:35,172 ]186 werkzeug - WARNING -  * Debugger is active!
+[2023-05-30 09:39:35,176 ]186 werkzeug - INFO -  * Debugger PIN: 632-595-867
+[2023-05-30 09:39:53,195 ]186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 09:39:53] "GET / HTTP/1.1" 200 -
+[2023-05-30 09:39:53,575 ]186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 09:39:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-05-30 09:41:37,388 ]186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 09:41:37] "GET /predictdata HTTP/1.1" 200 -
+[2023-05-30 09:42:15,086 ]186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 09:42:15] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2023-05-30 09:42:15,271 ]186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 09:42:15] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-05-30 09:42:15,275 ]186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 09:42:15] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-05-30 09:42:15,323 ]186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 09:42:15] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-05-30 09:42:15,364 ]186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 09:42:15] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

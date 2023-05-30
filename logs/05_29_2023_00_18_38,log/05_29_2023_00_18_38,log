@@ -1,0 +1,9 @@
+[2023-05-29 00:18:38,774 ]186 werkzeug - WARNING -  * Debugger is active!
+[2023-05-29 00:18:38,777 ]186 werkzeug - INFO -  * Debugger PIN: 632-595-867
+[2023-05-29 00:19:05,882 ]186 werkzeug - INFO - 127.0.0.1 - - [29/May/2023 00:19:05] "GET /predictdata HTTP/1.1" 200 -
+[2023-05-29 00:19:50,148 ]186 werkzeug - INFO - 127.0.0.1 - - [29/May/2023 00:19:50] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2023-05-29 00:19:50,336 ]186 werkzeug - INFO - 127.0.0.1 - - [29/May/2023 00:19:50] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-05-29 00:19:50,354 ]186 werkzeug - INFO - 127.0.0.1 - - [29/May/2023 00:19:50] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-05-29 00:19:50,387 ]186 werkzeug - INFO - 127.0.0.1 - - [29/May/2023 00:19:50] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-05-29 00:19:50,488 ]186 werkzeug - INFO - 127.0.0.1 - - [29/May/2023 00:19:50] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-05-29 00:23:17,345 ]186 werkzeug - INFO -  * Detected change in 'd:\\ml project\\src\\pipeline\\predict_pipeline.py', reloading
